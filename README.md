@@ -17,23 +17,33 @@
 
 <br />
 
-### Languages and Tools:
+### 💻 Tech Stack:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlplaylist]
-[<img align="left" alt="CSS Inspiration" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssinspirationplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vueplaylist]
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescriptplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphqllaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="ECMAScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" />][esplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminalplaylist]
-
-<br />
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)&nbsp;
+![Jest](https://img.shields.io/badge/-JEST-333333?style=flat&logo=JEST&logoColor=C21325)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 
 ---
 
-### 📺 Popular YouTube Videos
+### 🛠 Tools:
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
+![Invision](https://img.shields.io/badge/-Invision-333333?style=flat&logo=invision)&nbsp;
+
+<br />
+
+### 🎥 Popular YouTube Videos
 
 - [Что ДЕЙСТВИТЕЛЬНО должен знать junior Front-end разработчик](https://youtu.be/6YeCbrtU15s)
 - [Front-end 2020 Roadmap & Trends | Что учить в 2020?](https://youtu.be/HJBpubsXONM)
@@ -43,8 +53,12 @@
 
 ➡️ [more videos...](https://www.youtube.com/c/YauhenKavalchuk/videos)
 
-<img height="160em" align="left" alt="webDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=YauhenKavalchuk&show_icons=true" />
-<img height="160em" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=vue&layout=compact" />
+<br />
+
+### ⚙️ GitHub Analytics
+
+<img height="160em" align="left" alt="webDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=YauhenKavalchuk&theme=radical&show_icons=true" />
+<img height="160em" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=radical&layout=compact" />
 
 [youtube]: https://youtube.com/YauhenKavalchuk
 [instagram]: https://instagram.com/YauhenKavalchuk
@@ -52,12 +66,3 @@
 [vk]: https://vk.com/YauhenKavalchuk
 [twitter]: https://twitter.com/YauhenKavalchuk
 [github]: https://github.com/YauhenKavalchuk
-[reactplaylist]: https://www.youtube.com/playlist?list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4
-[htmlplaylist]: https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7
-[cssinspirationplaylist]: https://www.youtube.com/playlist?list=PLNkWIWHIRwMEosiVP_3B-h4fE7CIfZ7pI
-[typescriptplaylist]: https://www.youtube.com/playlist?list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa
-[graphqllaylist]: https://www.youtube.com/playlist?list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu
-[jsplaylist]: https://www.youtube.com/playlist?list=PLNkWIWHIRwMHKLotIS_d-wyj00pg0AnUg
-[esplaylist]: https://www.youtube.com/playlist?list=PLNkWIWHIRwMGLJXugVvdK7i8UagGQNaXD
-[terminalplaylist]: https://www.youtube.com/playlist?list=PLNkWIWHIRwMFJqtnggkX53Bsgq65CP1Rv
-[vueplaylist]: https://www.youtube.com/playlist?list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB
