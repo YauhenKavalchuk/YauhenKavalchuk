@@ -15,7 +15,7 @@
 [<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="webDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br />
+---
 
 ### 💻 Tech Stack:
 
@@ -31,7 +31,7 @@
 ![Jest](https://img.shields.io/badge/-JEST-333333?style=flat&logo=JEST&logoColor=C21325)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 
----
+<br />
 
 ### 🛠 Tools:
 
@@ -41,7 +41,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![Invision](https://img.shields.io/badge/-Invision-333333?style=flat&logo=invision)&nbsp;
 
-<br />
+---
 
 ### 🎥 Popular YouTube Videos
 
@@ -53,7 +53,7 @@
 
 ➡️ [more videos...](https://www.youtube.com/c/YauhenKavalchuk/videos)
 
-<br />
+---
 
 ### ⚙️ GitHub Analytics
 
