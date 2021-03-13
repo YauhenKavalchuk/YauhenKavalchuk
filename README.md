@@ -15,6 +15,12 @@
 [<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="webDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
 
+### 🍻 Support this project:
+
+<a href="https://www.patreon.com/YauhenKavalchuk" target="_blank">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
 ---
 
 ### 💻 Tech Stack:
