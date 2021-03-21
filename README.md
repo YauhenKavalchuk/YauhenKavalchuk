@@ -6,6 +6,7 @@
 
 - 📍 I’m from Belarus (Minsk)
 - 💻 6+ years experience in Front-end development
+- 👨‍💻 Mentor & Lecturer in Rolling Scopes School
 
 ### 🤝 Connect with me:
 
@@ -15,7 +16,7 @@
 [<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="webDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
 
-### 🍻 Support this project:
+### 🍻 Support me:
 
 <a href="https://www.patreon.com/YauhenKavalchuk" target="_blank">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
@@ -37,8 +38,6 @@
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=C21325)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 
-<br />
-
 ### 🛠 Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -56,9 +55,9 @@
 
 - [Что ДЕЙСТВИТЕЛЬНО должен знать junior Front-end разработчик](https://youtu.be/6YeCbrtU15s)
 - [Front-end 2020 Roadmap & Trends | Что учить в 2020?](https://youtu.be/HJBpubsXONM)
-- [Как быстро изучить JavaScript в 2020?](https://youtu.be/AUjuAVWOayY)
+- [Front-end 2021 Roadmap & Trends | Что учить в 2021?](https://youtu.be/YF2vrolwcR4)
 - [Просто о SOLID (Принципы ООП)](https://youtu.be/A6wEkG4B38E)
-- [Как я стал Front-end разработчиком](https://youtu.be/Tu_6y6kU2yE)
+- [Как быстро изучить JavaScript в 2020?](https://youtu.be/AUjuAVWOayY)
 
 ➡️ [more videos...](https://www.youtube.com/c/YauhenKavalchuk/videos)
 
@@ -66,20 +65,21 @@
 
 ### 🎬 Popular YouTube Playlists
 
-- [TypeScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa)
 - [React & Redux](https://www.youtube.com/playlist?list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4)
 - [GraphQL](https://www.youtube.com/playlist?list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu)
-- [TypeScript & React](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFQBDhZ6HfwO9NL09X3N3Gq)
-- [Jest & Enzyme](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFPcbK0AJVBYyNveXmMZhMS)
+- [ES6](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGLJXugVvdK7i8UagGQNaXD)
+- [HTML Basics](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7)
+- [JavaScript Design Patterns](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4)
 
-➡️ [more videos...](https://www.youtube.com/c/YauhenKavalchuk/videos)
+
+➡️ [more playlists...](https://www.youtube.com/c/YauhenKavalchuk/playlists)
 
 ---
 
 ### ⚙️ GitHub Analytics
 
-<img height="160em" align="left" alt="webDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=YauhenKavalchuk&theme=radical&show_icons=true" />
-<img height="160em" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=radical&layout=compact" />
+<img height="170em" align="left" alt="webDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=YauhenKavalchuk&theme=radical&show_icons=true" />
+<img height="170em" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=radical&layout=compact" />
 
 [youtube]: https://youtube.com/YauhenKavalchuk
 [instagram]: https://instagram.com/YauhenKavalchuk
