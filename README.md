@@ -4,9 +4,10 @@
 
 ## I'm a Developer, Teacher and Mentor!
 
-- 📍 I’m from Belarus (Minsk)
-- 💻 6+ years experience in Front-end development
-- 👨‍💻 Mentor & Lecturer in Rolling Scopes School
+- 📍 I’m From Belarus (Minsk)
+- 💻 6+ Years Experience in Front-end Development
+- 📚 Mentor & Lecturer in Rolling Scopes School
+- 👨‍💻 Front-end Enthusiast & Volunteer
 
 ### 🤝 Connect with me:
 
@@ -36,7 +37,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=C21325)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 
 ### 🛠 Tools:
 
@@ -45,7 +45,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=GitLab&logoColor=FCA121)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira-software&logoColor=0052CC)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello&logoColor=0079BF)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![Invision](https://img.shields.io/badge/-Invision-333333?style=flat&logo=invision)&nbsp;
 
