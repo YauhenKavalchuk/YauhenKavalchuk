@@ -1,4 +1,4 @@
-name: Latest YouTube Videos
+name: Popular YouTube Videos
 on:
   schedule:
     # Runs every night
