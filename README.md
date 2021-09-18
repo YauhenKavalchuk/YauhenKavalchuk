@@ -52,6 +52,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ---
+# Blog posts
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
 
 ### 🎥 Popular YouTube Videos
 
