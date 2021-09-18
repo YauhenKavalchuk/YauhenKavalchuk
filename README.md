@@ -53,7 +53,26 @@
 
 ### 🎥 Popular YouTube Videos
 
-<!-- YOUTUBEPOPULAR:START -->
+<!-- YOUTUBEPOPULAR:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1X8FNuy32ZM"><img width="140px" src="https://i.ytimg.com/vi/1X8FNuy32ZM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1X8FNuy32ZM">Основы CSS3. Полный курс</a><br/>Sep 16, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ke4Kl8kE2Lc"><img width="140px" src="https://i.ytimg.com/vi/ke4Kl8kE2Lc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ke4Kl8kE2Lc">Node.js #20 Загрузка приложения на Heroku (Deployment On Heroku)</a><br/>Sep 14, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=PvYewHIAdKc"><img width="140px" src="https://i.ytimg.com/vi/PvYewHIAdKc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PvYewHIAdKc">Node.js #19 Создание API (Create API)</a><br/>Sep 9, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Opx3wOmr07o"><img width="140px" src="https://i.ytimg.com/vi/Opx3wOmr07o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Opx3wOmr07o">Node.js #18 MVC и Роутер (MVC Pattern & Router)</a><br/>Sep 7, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5GKsyN2H-_A"><img width="140px" src="https://i.ytimg.com/vi/5GKsyN2H-_A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5GKsyN2H-_A">60 000 ПОДПИСЧИКОВ!</a><br/>Sep 6, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=o-jBqnIZOmA"><img width="140px" src="https://i.ytimg.com/vi/o-jBqnIZOmA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=o-jBqnIZOmA">Node.js #17 Удаление и редактирование данных (Delete & Update Requests)</a><br/>Sep 2, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7-WigkDx84E"><img width="140px" src="https://i.ytimg.com/vi/7-WigkDx84E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7-WigkDx84E">Node.js #16 Добавление и получение данных (Get & Post Requests)</a><br/>Aug 31, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=IApYrXWPFvg"><img width="140px" src="https://i.ytimg.com/vi/IApYrXWPFvg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IApYrXWPFvg">Node.js #15 Интеграция БД в приложение (MongoDB Integration)</a><br/>Aug 26, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mxv8ykwaWEw"><img width="140px" src="https://i.ytimg.com/vi/mxv8ykwaWEw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mxv8ykwaWEw">Node.js #14 Обработка POST запроса (Handling Post Requests)</a><br/>Aug 24, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9nQw4iwZGNU"><img width="140px" src="https://i.ytimg.com/vi/9nQw4iwZGNU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9nQw4iwZGNU">Node.js #13 Промежуточное ПО (Middleware)</a><br/>Aug 19, 2021</td></tr></table>
 <!-- YOUTUBEPOPULAR:END -->
 
 ---
