@@ -51,42 +51,17 @@
 ![Invision](https://img.shields.io/badge/-Invision-333333?style=flat&logo=invision)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
----
-# Blog posts
-
-<!-- YOUTUBE:START -->
-- [Основы CSS3. Полный курс](https://www.youtube.com/watch?v=1X8FNuy32ZM)
-- [Node.js #20 Загрузка приложения на Heroku (Deployment On Heroku)](https://www.youtube.com/watch?v=ke4Kl8kE2Lc)
-- [Node.js #19 Создание API (Create API)](https://www.youtube.com/watch?v=PvYewHIAdKc)
-- [Node.js #18 MVC и Роутер (MVC Pattern & Router)](https://www.youtube.com/watch?v=Opx3wOmr07o)
-- [60 000 ПОДПИСЧИКОВ!](https://www.youtube.com/watch?v=5GKsyN2H-_A)
-- [Node.js #17 Удаление и редактирование данных (Delete & Update Requests)](https://www.youtube.com/watch?v=o-jBqnIZOmA)
-<!-- YOUTUBE:END -->
-
----
-
 ### 🎥 Popular YouTube Videos
 
-- [Что ДЕЙСТВИТЕЛЬНО должен знать junior Front-end разработчик](https://youtu.be/6YeCbrtU15s)
-- [Front-end 2020 Roadmap & Trends | Что учить в 2020?](https://youtu.be/HJBpubsXONM)
-- [Front-end 2021 Roadmap & Trends | Что учить в 2021?](https://youtu.be/YF2vrolwcR4)
-- [Просто о SOLID (Принципы ООП)](https://youtu.be/A6wEkG4B38E)
-- [Как быстро изучить JavaScript в 2020?](https://youtu.be/AUjuAVWOayY)
-
-➡️ [more videos...](https://www.youtube.com/c/YauhenKavalchuk/videos)
+<!-- YOUTUBEPOPULAR:START -->
+<!-- YOUTUBEPOPULAR:END -->
 
 ---
 
-### 🎬 Popular YouTube Playlists
+### 🎬 Latest YouTube Playlists:
 
-- [React & Redux](https://www.youtube.com/playlist?list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4)
-- [GraphQL](https://www.youtube.com/playlist?list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu)
-- [ES6](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGLJXugVvdK7i8UagGQNaXD)
-- [HTML Basics](https://www.youtube.com/playlist?list=PLNkWIWHIRwMFtHHg0amAgocYP-kZypbY7)
-- [JavaScript Design Patterns](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4)
-
-
-➡️ [more playlists...](https://www.youtube.com/c/YauhenKavalchuk/playlists)
+<!-- YOUTUBELATEST:START -->
+<!-- YOUTUBELATEST:END -->
 
 ---
 
