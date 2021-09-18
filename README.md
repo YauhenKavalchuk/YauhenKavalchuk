@@ -13,7 +13,8 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/YauhenKavalchuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 
-### Hi all, I'm Yauhen - aka [webDev][youtube] 👋 <img align="right" src="https://gpvc.arturio.dev/yauhenkavalchuk" alt="Profile views">
+### Hi all, I'm Yauhen - aka [webDev][youtube] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Yauhen" />
+
 
 ## I'm a Developer, Teacher and Mentor!
 
@@ -23,12 +24,11 @@
 - 📚 Mentor & Lecturer in Rolling Scopes School
 
 ### 🤝 Connect with me:
-
-[<img align="left" alt="webDev | YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />][youtube]
-[<img align="left" alt="webDev | Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="webDev | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="webDev | Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="webDev | VK" src="https://img.shields.io/badge/-VK-4680C2?style=flat&logo=vk&logoColor=white" />][vk]&nbsp;
+[<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][youtube]
+[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][vk]
 
 ### 🍻 Support me:
 
@@ -43,29 +43,36 @@
 
 ### 💻 Tech Stack:
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=C21325)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+<img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/rtl-D62B2A.svg?&style=for-the-badge&logo=testing-library&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=GitLab&logoColor=FCA121)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira-software&logoColor=0052CC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![Invision](https://img.shields.io/badge/-Invision-333333?style=flat&logo=invision)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<img src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/heroku-5920B1.svg?&style=for-the-badge&logo=heroku&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/invision-FF3267.svg?&style=for-the-badge&logo=invision&logoColor=fff" />&nbsp;
+<img src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
 ---
 
-### 🎥 Popular YouTube Videos
+### 🎥 Popular YouTube Videos:
 
 <table>
 <!-- YOUTUBEPOPULAR:START --><tr> <td> <a href="https://www.youtube.com/watch?v=YF2vrolwcR4"> <img width="140px" src="https://i.ytimg.com/vi/YF2vrolwcR4/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=YF2vrolwcR4">Front-end 2021 Roadmap & Trends | Что учить в 2021?</a> <br/>Dec 15, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=5QnZ9AyDW6c"> <img width="140px" src="https://i.ytimg.com/vi/5QnZ9AyDW6c/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=5QnZ9AyDW6c">TypeScript. Полный курс</a> <br/>Nov 4, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=_J6hMLsscOo"> <img width="140px" src="https://i.ytimg.com/vi/_J6hMLsscOo/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=_J6hMLsscOo">Основы HTML5. Полный курс</a> <br/>Sep 10, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=g8LmiLTXkqo"> <img width="140px" src="https://i.ytimg.com/vi/g8LmiLTXkqo/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=g8LmiLTXkqo">ТОП-16 Плагинов для VS Code в 2020 (VS Code Extensions)</a> <br/>May 19, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=mockcEwNBbs"> <img width="140px" src="https://i.ytimg.com/vi/mockcEwNBbs/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=mockcEwNBbs">Просто о Scrum (Гибкое управление проектами)</a> <br/>Feb 18, 2020 </td> </tr><!-- YOUTUBEPOPULAR:END -->
@@ -73,18 +80,16 @@
 
 ---
 
-### 🎬 Latest YouTube Playlists:
+### 🎬 Latest YouTube Videos:
 
 <table>
 <!-- YOUTUBELATEST:START --><tr> <td> <a href="https://www.youtube.com/watch?v=1X8FNuy32ZM"> <img width="140px" src="https://i.ytimg.com/vi/1X8FNuy32ZM/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=1X8FNuy32ZM">Основы CSS3. Полный курс</a> <br/>Sep 16, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=ke4Kl8kE2Lc"> <img width="140px" src="https://i.ytimg.com/vi/ke4Kl8kE2Lc/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=ke4Kl8kE2Lc">Node.js #20 Загрузка приложения на Heroku (Deployment On Heroku)</a> <br/>Sep 14, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=PvYewHIAdKc"> <img width="140px" src="https://i.ytimg.com/vi/PvYewHIAdKc/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=PvYewHIAdKc">Node.js #19 Создание API (Create API)</a> <br/>Sep 9, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=Opx3wOmr07o"> <img width="140px" src="https://i.ytimg.com/vi/Opx3wOmr07o/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=Opx3wOmr07o">Node.js #18 MVC и Роутер (MVC Pattern & Router)</a> <br/>Sep 7, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=5GKsyN2H-_A"> <img width="140px" src="https://i.ytimg.com/vi/5GKsyN2H-_A/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=5GKsyN2H-_A">60 000 ПОДПИСЧИКОВ!</a> <br/>Sep 6, 2021 </td> </tr><!-- YOUTUBELATEST:END -->
 </table>
 
----
-
 ### ⚙️ GitHub Analytics
 
-<!-- <img height="170em" align="left" alt="webDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=YauhenKavalchuk&theme=radical&show_icons=true" /> -->
-<img height="170em" align="left" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=radical&layout=compact" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YauhenKavalchuk&theme=algolia" alt="webDev's Github stats" />
+<img height="195px" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=algolia&layout=compact" />
 
 [youtube]: https://youtube.com/YauhenKavalchuk
 [instagram]: https://instagram.com/YauhenKavalchuk
