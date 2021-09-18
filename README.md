@@ -19,8 +19,11 @@
 
 ### 🍻 Support me:
 
-<a href="https://www.patreon.com/YauhenKavalchuk" target="_blank">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+<a href="https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join">
+  <img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/youtube_sponsor.png" width="160">
+</a>
+<a href="https://www.patreon.com/YauhenKavalchuk">
+  <img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/patreon_patron.png" width="160">
 </a>
 
 ---
