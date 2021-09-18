@@ -55,12 +55,13 @@
 # Blog posts
 
 <!-- YOUTUBE:START -->
-[![Основы CSS3. Полный курс](https://freshidea.com/jonah/app/youtube-card/?id=1X8FNuy32ZM)](https://www.youtube.com/watch?v=1X8FNuy32ZM "Основы CSS3. Полный курс")
-[![Node.js #20 Загрузка приложения на Heroku (Deployment On Heroku)](https://freshidea.com/jonah/app/youtube-card/?id=ke4Kl8kE2Lc)](https://www.youtube.com/watch?v=ke4Kl8kE2Lc "Node.js #20 Загрузка приложения на Heroku (Deployment On Heroku)")
-[![Node.js #19 Создание API (Create API)](https://freshidea.com/jonah/app/youtube-card/?id=PvYewHIAdKc)](https://www.youtube.com/watch?v=PvYewHIAdKc "Node.js #19 Создание API (Create API)")
-[![Node.js #18 MVC и Роутер (MVC Pattern & Router)](https://freshidea.com/jonah/app/youtube-card/?id=Opx3wOmr07o)](https://www.youtube.com/watch?v=Opx3wOmr07o "Node.js #18 MVC и Роутер (MVC Pattern & Router)")
-[![60 000 ПОДПИСЧИКОВ!](https://freshidea.com/jonah/app/youtube-card/?id=5GKsyN2H-_A)](https://www.youtube.com/watch?v=5GKsyN2H-_A "60 000 ПОДПИСЧИКОВ!")
-[![Node.js #17 Удаление и редактирование данных (Delete & Update Requests)](https://freshidea.com/jonah/app/youtube-card/?id=o-jBqnIZOmA)](https://www.youtube.com/watch?v=o-jBqnIZOmA "Node.js #17 Удаление и редактирование данных (Delete & Update Requests)")<!-- YOUTUBE:END -->
+- [Основы CSS3. Полный курс](https://www.youtube.com/watch?v=1X8FNuy32ZM)
+- [Node.js #20 Загрузка приложения на Heroku (Deployment On Heroku)](https://www.youtube.com/watch?v=ke4Kl8kE2Lc)
+- [Node.js #19 Создание API (Create API)](https://www.youtube.com/watch?v=PvYewHIAdKc)
+- [Node.js #18 MVC и Роутер (MVC Pattern & Router)](https://www.youtube.com/watch?v=Opx3wOmr07o)
+- [60 000 ПОДПИСЧИКОВ!](https://www.youtube.com/watch?v=5GKsyN2H-_A)
+- [Node.js #17 Удаление и редактирование данных (Delete & Update Requests)](https://www.youtube.com/watch?v=o-jBqnIZOmA)
+<!-- YOUTUBE:END -->
 
 ---
 
