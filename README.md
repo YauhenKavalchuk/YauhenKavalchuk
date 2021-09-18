@@ -72,6 +72,21 @@
 
 ---
 
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YauhenKavalchuk&theme=algolia" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🎥 Popular YouTube Videos:
 
 <table>
@@ -85,11 +100,6 @@
 <table>
 <!-- YOUTUBELATEST:START --><tr> <td> <a href="https://www.youtube.com/watch?v=1X8FNuy32ZM"> <img width="140px" src="https://i.ytimg.com/vi/1X8FNuy32ZM/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=1X8FNuy32ZM">Основы CSS3. Полный курс</a> <br/>Sep 16, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=ke4Kl8kE2Lc"> <img width="140px" src="https://i.ytimg.com/vi/ke4Kl8kE2Lc/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=ke4Kl8kE2Lc">Node.js #20 Загрузка приложения на Heroku (Deployment On Heroku)</a> <br/>Sep 14, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=PvYewHIAdKc"> <img width="140px" src="https://i.ytimg.com/vi/PvYewHIAdKc/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=PvYewHIAdKc">Node.js #19 Создание API (Create API)</a> <br/>Sep 9, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=Opx3wOmr07o"> <img width="140px" src="https://i.ytimg.com/vi/Opx3wOmr07o/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=Opx3wOmr07o">Node.js #18 MVC и Роутер (MVC Pattern & Router)</a> <br/>Sep 7, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=5GKsyN2H-_A"> <img width="140px" src="https://i.ytimg.com/vi/5GKsyN2H-_A/mqdefault.jpg"> </a> </td> <td> <a href="https://www.youtube.com/watch?v=5GKsyN2H-_A">60 000 ПОДПИСЧИКОВ!</a> <br/>Sep 6, 2021 </td> </tr><!-- YOUTUBELATEST:END -->
 </table>
-
-### ⚙️ GitHub Analytics
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YauhenKavalchuk&theme=algolia" alt="webDev's Github stats" />
-<img align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=algolia&layout=compact" />
 
 [youtube]: https://youtube.com/YauhenKavalchuk
 [instagram]: https://instagram.com/YauhenKavalchuk
