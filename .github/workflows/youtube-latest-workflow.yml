@@ -18,5 +18,14 @@ jobs:
           custom_tags: "videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           max_post_count: 10
-          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '
+            <tr>
+              <td>
+                <a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a>
+              </td>$newline
+              <td>
+                <a href="$url">$title</a>
+                <br/>$date
+              </td>
+            </tr>'
           committer_email: "yauhen.kavalchuk@gmail.com"

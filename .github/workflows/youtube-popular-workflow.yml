@@ -14,9 +14,9 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBEPOPULAR"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCE9ODjNIkOHrnSdkYWLfYhg"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PUE9ODjNIkOHrnSdkYWLfYhg"
           custom_tags: "videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           max_post_count: 10
-          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '<tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr>'
           committer_email: "yauhen.kavalchuk@gmail.com"

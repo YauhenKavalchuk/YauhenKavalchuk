@@ -53,15 +53,19 @@
 
 ### 🎥 Popular YouTube Videos
 
+<table>
 <!-- YOUTUBEPOPULAR:START -->
 <!-- YOUTUBEPOPULAR:END -->
+</table>
 
 ---
 
 ### 🎬 Latest YouTube Playlists:
 
+<table>
 <!-- YOUTUBELATEST:START -->
 <!-- YOUTUBELATEST:END -->
+</table>
 
 ---
 
