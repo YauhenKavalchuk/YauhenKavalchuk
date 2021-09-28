@@ -99,8 +99,7 @@
     </td>
     <td>
       <table>
-        <!-- YOUTUBELATEST:START -->
-        <!-- YOUTUBELATEST:END -->
+        <!-- YOUTUBELATEST:START --><tr> <td> <a href="https://www.youtube.com/watch?v=M1Y7JmaslkU"> <img width="140px" src="https://i.ytimg.com/vi/M1Y7JmaslkU/mqdefault.jpg"> </a> </td> <td width="287px"> <a href="https://www.youtube.com/watch?v=M1Y7JmaslkU">Next.js #0 Введение (Introduction)</a> <br/>Sep 28, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=XXlw7TUxRVY"> <img width="140px" src="https://i.ytimg.com/vi/XXlw7TUxRVY/mqdefault.jpg"> </a> </td> <td width="287px"> <a href="https://www.youtube.com/watch?v=XXlw7TUxRVY">CSS Flexbox. Полный курс</a> <br/>Sep 23, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=xMxtK18MCEQ"> <img width="140px" src="https://i.ytimg.com/vi/xMxtK18MCEQ/mqdefault.jpg"> </a> </td> <td width="287px"> <a href="https://www.youtube.com/watch?v=xMxtK18MCEQ">ТОП 15 Технических сайтов для разработчиков</a> <br/>Sep 21, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=1X8FNuy32ZM"> <img width="140px" src="https://i.ytimg.com/vi/1X8FNuy32ZM/mqdefault.jpg"> </a> </td> <td width="287px"> <a href="https://www.youtube.com/watch?v=1X8FNuy32ZM">Основы CSS3. Полный курс</a> <br/>Sep 16, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=ke4Kl8kE2Lc"> <img width="140px" src="https://i.ytimg.com/vi/ke4Kl8kE2Lc/mqdefault.jpg"> </a> </td> <td width="287px"> <a href="https://www.youtube.com/watch?v=ke4Kl8kE2Lc">Node.js #20 Загрузка приложения на Heroku (Deployment On Heroku)</a> <br/>Sep 14, 2021 </td> </tr><!-- YOUTUBELATEST:END -->
       </table>
     </td>
   </tr>
