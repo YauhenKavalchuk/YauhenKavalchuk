@@ -93,8 +93,7 @@
   <tr>
     <td>
       <table>
-        <!-- YOUTUBEPOPULAR:START -->
-        <!-- YOUTUBEPOPULAR:END -->
+        <!-- YOUTUBEPOPULAR:START --><tr> <td> <a href="https://www.youtube.com/watch?v=YF2vrolwcR4"> <img width="140px" src="https://i.ytimg.com/vi/YF2vrolwcR4/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=YF2vrolwcR4">Front-end 2021 Roadmap & Trends | Что учить в 2021?</a> <br/>Dec 15, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=5QnZ9AyDW6c"> <img width="140px" src="https://i.ytimg.com/vi/5QnZ9AyDW6c/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=5QnZ9AyDW6c">TypeScript. Полный курс</a> <br/>Nov 4, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=_J6hMLsscOo"> <img width="140px" src="https://i.ytimg.com/vi/_J6hMLsscOo/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=_J6hMLsscOo">Основы HTML5. Полный курс</a> <br/>Sep 10, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=g8LmiLTXkqo"> <img width="140px" src="https://i.ytimg.com/vi/g8LmiLTXkqo/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=g8LmiLTXkqo">ТОП-16 Плагинов для VS Code в 2020 (VS Code Extensions)</a> <br/>May 19, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=mockcEwNBbs"> <img width="140px" src="https://i.ytimg.com/vi/mockcEwNBbs/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=mockcEwNBbs">Просто о Scrum (Гибкое управление проектами)</a> <br/>Feb 18, 2020 </td> </tr><!-- YOUTUBEPOPULAR:END -->
       </table>
     </td>
     <td>
