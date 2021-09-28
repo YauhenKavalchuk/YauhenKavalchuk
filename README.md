@@ -93,14 +93,12 @@
   <tr>
     <td>
       <table>
-        <!-- YOUTUBEPOPULAR:START -->
-        <!-- YOUTUBEPOPULAR:END -->
+        <!-- YOUTUBEPOPULAR:START --><tr> <td> <a href="https://www.youtube.com/watch?v=YF2vrolwcR4"> <img width="140px" src="https://i.ytimg.com/vi/YF2vrolwcR4/mqdefault.jpg"> </a> </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=5QnZ9AyDW6c"> <img width="140px" src="https://i.ytimg.com/vi/5QnZ9AyDW6c/mqdefault.jpg"> </a> </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=_J6hMLsscOo"> <img width="140px" src="https://i.ytimg.com/vi/_J6hMLsscOo/mqdefault.jpg"> </a> </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=g8LmiLTXkqo"> <img width="140px" src="https://i.ytimg.com/vi/g8LmiLTXkqo/mqdefault.jpg"> </a> </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=mockcEwNBbs"> <img width="140px" src="https://i.ytimg.com/vi/mockcEwNBbs/mqdefault.jpg"> </a> </td> </tr><!-- YOUTUBEPOPULAR:END -->
       </table>
     </td>
     <td>
       <table>
-        <!-- YOUTUBELATEST:START -->
-        <!-- YOUTUBELATEST:END -->
+        <!-- YOUTUBELATEST:START --><tr> <td> <a href="https://www.youtube.com/watch?v=M1Y7JmaslkU"> <img width="140px" src="https://i.ytimg.com/vi/M1Y7JmaslkU/mqdefault.jpg"> </a> </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=XXlw7TUxRVY"> <img width="140px" src="https://i.ytimg.com/vi/XXlw7TUxRVY/mqdefault.jpg"> </a> </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=xMxtK18MCEQ"> <img width="140px" src="https://i.ytimg.com/vi/xMxtK18MCEQ/mqdefault.jpg"> </a> </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=1X8FNuy32ZM"> <img width="140px" src="https://i.ytimg.com/vi/1X8FNuy32ZM/mqdefault.jpg"> </a> </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=ke4Kl8kE2Lc"> <img width="140px" src="https://i.ytimg.com/vi/ke4Kl8kE2Lc/mqdefault.jpg"> </a> </td> </tr><!-- YOUTUBELATEST:END -->
       </table>
     </td>
   </tr>
