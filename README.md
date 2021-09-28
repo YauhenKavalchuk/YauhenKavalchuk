@@ -99,8 +99,7 @@
     </td>
     <td>
       <table>
-        <!-- YOUTUBELATEST:START -->
-        <!-- YOUTUBELATEST:END -->
+        <!-- YOUTUBELATEST:START --><tr> <td> <a href="https://www.youtube.com/watch?v=M1Y7JmaslkU"> <img width="140px" src="https://i.ytimg.com/vi/M1Y7JmaslkU/mqdefault.jpg"> </a> </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=XXlw7TUxRVY"> <img width="140px" src="https://i.ytimg.com/vi/XXlw7TUxRVY/mqdefault.jpg"> </a> </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=xMxtK18MCEQ"> <img width="140px" src="https://i.ytimg.com/vi/xMxtK18MCEQ/mqdefault.jpg"> </a> </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=1X8FNuy32ZM"> <img width="140px" src="https://i.ytimg.com/vi/1X8FNuy32ZM/mqdefault.jpg"> </a> </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=ke4Kl8kE2Lc"> <img width="140px" src="https://i.ytimg.com/vi/ke4Kl8kE2Lc/mqdefault.jpg"> </a> </td> </tr><!-- YOUTUBELATEST:END -->
       </table>
     </td>
   </tr>
