@@ -15,7 +15,6 @@
 
 ### Hi all, I'm Yauhen - aka [webDev][youtube] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Yauhen" />
 
-
 ## I'm a Developer, Teacher and Mentor!
 
 - 📍 I’m From Belarus (Minsk)
@@ -24,6 +23,7 @@
 - 📚 Mentor & Lecturer in Rolling Scopes School
 
 ### 🤝 Connect with me:
+
 [<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
