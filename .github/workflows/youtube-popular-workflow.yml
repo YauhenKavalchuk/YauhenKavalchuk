@@ -25,9 +25,5 @@ jobs:
                   <img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
                 </a>
               </td>
-              <td>
-                <a href="$url">$title</a>
-                <br/>$date
-              </td>
             </tr>'
           committer_email: "yauhen.kavalchuk@gmail.com"
