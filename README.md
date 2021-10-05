@@ -44,7 +44,7 @@
 <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-8C0000.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-8C0000.svg?&style=for-the-badge&logo=graphql&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-8C0000.svg?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="jest" src="https://img.shields.io/badge/jest-8C0000.svg?&style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="jest" src="https://img.shields.io/badge/jest-8C0000.svg?&style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20&labelColor=AC1F21" />
 <img alt="testing-library" src="https://img.shields.io/badge/rtl-8C0000.svg?&style=for-the-badge&logo=testing-library&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-8C0000.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-8C0000.svg?&style=for-the-badge&logo=mongodb&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
