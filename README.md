@@ -37,6 +37,27 @@
 
 ---
 
+<table>
+  <tr>
+    <td>🎥 Popular Videos:</td>
+    <td>🎬 Latest Videos:</td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <!-- YOUTUBEPOPULAR:START --><tr> <td> <a href="https://www.youtube.com/watch?v=YF2vrolwcR4"> <img width="140px" src="https://i.ytimg.com/vi/YF2vrolwcR4/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=YF2vrolwcR4">Front-end 2021 Roadmap & Trends | Что учить в 2021?</a> <br/>Dec 15, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=5QnZ9AyDW6c"> <img width="140px" src="https://i.ytimg.com/vi/5QnZ9AyDW6c/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=5QnZ9AyDW6c">TypeScript. Полный курс</a> <br/>Nov 4, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=_J6hMLsscOo"> <img width="140px" src="https://i.ytimg.com/vi/_J6hMLsscOo/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=_J6hMLsscOo">Основы HTML5. Полный курс</a> <br/>Sep 10, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=g8LmiLTXkqo"> <img width="140px" src="https://i.ytimg.com/vi/g8LmiLTXkqo/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=g8LmiLTXkqo">ТОП-16 Плагинов для VS Code в 2020 (VS Code Extensions)</a> <br/>May 19, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=mockcEwNBbs"> <img width="140px" src="https://i.ytimg.com/vi/mockcEwNBbs/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=mockcEwNBbs">Просто о Scrum (Гибкое управление проектами)</a> <br/>Feb 18, 2020 </td> </tr><!-- YOUTUBEPOPULAR:END -->
+      </table>
+    </td>
+    <td>
+      <table>
+        <!-- YOUTUBELATEST:START --><tr> <td> <a href="https://www.youtube.com/watch?v=_nWJOlC-Yfk"> <img width="140px" src="https://i.ytimg.com/vi/_nWJOlC-Yfk/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=_nWJOlC-Yfk">Next.js #3 Макет и компоненты (Layout & Components)</a> <br/>Oct 7, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=Pt9PkDWEluk"> <img width="140px" src="https://i.ytimg.com/vi/Pt9PkDWEluk/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=Pt9PkDWEluk">Next.js #2 Страницы и Роутинг (Pages & Routes)</a> <br/>Oct 5, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=dnd0YxOla8A"> <img width="140px" src="https://i.ytimg.com/vi/dnd0YxOla8A/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=dnd0YxOla8A">Next.js #1 Базовые концепции и установка (Basic Concepts & Setup Environment)</a> <br/>Sep 30, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=M1Y7JmaslkU"> <img width="140px" src="https://i.ytimg.com/vi/M1Y7JmaslkU/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=M1Y7JmaslkU">Next.js #0 Введение (Introduction)</a> <br/>Sep 28, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=XXlw7TUxRVY"> <img width="140px" src="https://i.ytimg.com/vi/XXlw7TUxRVY/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=XXlw7TUxRVY">CSS Flexbox. Полный курс</a> <br/>Sep 23, 2021 </td> </tr><!-- YOUTUBELATEST:END -->
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 💻 Tech Stack:
 
 <img alt="react" src="https://img.shields.io/badge/react-8C0000.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
@@ -68,41 +89,6 @@
 <img alt="invision" src="https://img.shields.io/badge/invision-8C0000.svg?&style=for-the-badge&logo=invision&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-8C0000.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 
----
-
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YauhenKavalchuk&theme=dark" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=dark&layout=compact" />
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td>🎥 Popular Videos:</td>
-    <td>🎬 Latest Videos:</td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <!-- YOUTUBEPOPULAR:START --><tr> <td> <a href="https://www.youtube.com/watch?v=YF2vrolwcR4"> <img width="140px" src="https://i.ytimg.com/vi/YF2vrolwcR4/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=YF2vrolwcR4">Front-end 2021 Roadmap & Trends | Что учить в 2021?</a> <br/>Dec 15, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=5QnZ9AyDW6c"> <img width="140px" src="https://i.ytimg.com/vi/5QnZ9AyDW6c/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=5QnZ9AyDW6c">TypeScript. Полный курс</a> <br/>Nov 4, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=_J6hMLsscOo"> <img width="140px" src="https://i.ytimg.com/vi/_J6hMLsscOo/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=_J6hMLsscOo">Основы HTML5. Полный курс</a> <br/>Sep 10, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=g8LmiLTXkqo"> <img width="140px" src="https://i.ytimg.com/vi/g8LmiLTXkqo/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=g8LmiLTXkqo">ТОП-16 Плагинов для VS Code в 2020 (VS Code Extensions)</a> <br/>May 19, 2020 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=mockcEwNBbs"> <img width="140px" src="https://i.ytimg.com/vi/mockcEwNBbs/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=mockcEwNBbs">Просто о Scrum (Гибкое управление проектами)</a> <br/>Feb 18, 2020 </td> </tr><!-- YOUTUBEPOPULAR:END -->
-      </table>
-    </td>
-    <td>
-      <table>
-        <!-- YOUTUBELATEST:START --><tr> <td> <a href="https://www.youtube.com/watch?v=_nWJOlC-Yfk"> <img width="140px" src="https://i.ytimg.com/vi/_nWJOlC-Yfk/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=_nWJOlC-Yfk">Next.js #3 Макет и компоненты (Layout & Components)</a> <br/>Oct 7, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=Pt9PkDWEluk"> <img width="140px" src="https://i.ytimg.com/vi/Pt9PkDWEluk/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=Pt9PkDWEluk">Next.js #2 Страницы и Роутинг (Pages & Routes)</a> <br/>Oct 5, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=dnd0YxOla8A"> <img width="140px" src="https://i.ytimg.com/vi/dnd0YxOla8A/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=dnd0YxOla8A">Next.js #1 Базовые концепции и установка (Basic Concepts & Setup Environment)</a> <br/>Sep 30, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=M1Y7JmaslkU"> <img width="140px" src="https://i.ytimg.com/vi/M1Y7JmaslkU/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=M1Y7JmaslkU">Next.js #0 Введение (Introduction)</a> <br/>Sep 28, 2021 </td> </tr><tr> <td> <a href="https://www.youtube.com/watch?v=XXlw7TUxRVY"> <img width="140px" src="https://i.ytimg.com/vi/XXlw7TUxRVY/mqdefault.jpg"> </a> </td> <td width="231px"> <a href="https://www.youtube.com/watch?v=XXlw7TUxRVY">CSS Flexbox. Полный курс</a> <br/>Sep 23, 2021 </td> </tr><!-- YOUTUBELATEST:END -->
-      </table>
-    </td>
-  </tr>
-</table>
 
 [youtube]: https://youtube.com/YauhenKavalchuk
 [instagram]: https://instagram.com/YauhenKavalchuk
