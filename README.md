@@ -35,8 +35,6 @@
 [<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
 [<img alt="webDev | Patreon" src="https://img.shields.io/badge/Become a patron-EF6451.svg?&style=for-the-badge&logo=patreon&logoColor=fff" />][patron]
 
----
-
 <table>
   <tr>
     <td>🎥 Popular Videos:</td>
@@ -56,8 +54,7 @@
   </tr>
 </table>
 
----
-
+<!-- 
 ### 💻 Tech Stack:
 
 <img alt="react" src="https://img.shields.io/badge/react-8C0000.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
@@ -87,7 +84,7 @@
 <img alt="heroku" src="https://img.shields.io/badge/heroku-8C0000.svg?&style=for-the-badge&logo=heroku&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-8C0000.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
 <img alt="invision" src="https://img.shields.io/badge/invision-8C0000.svg?&style=for-the-badge&logo=invision&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-8C0000.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp;
+<img alt="vs code" src="https://img.shields.io/badge/vs code-8C0000.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff&logoWidth=20&labelColor=AC1F21" />&nbsp; -->
 
 
 [youtube]: https://youtube.com/YauhenKavalchuk
