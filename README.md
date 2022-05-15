@@ -18,9 +18,10 @@
 ## I'm a Developer, Teacher and Mentor!
 
 - 📍 I’m From Belarus (Minsk)
-- 💻 6+ Years Experience in Front-end Development
+- 💻 7+ Years Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast & Volunteer
 - 📚 Mentor & Lecturer in Rolling Scopes School
+- 🎙YouTube Lecturer
 
 ### 🤝 Connect with me:
 
@@ -78,7 +79,7 @@
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YauhenKavalchuk&theme=algolia" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=algolia&layout=compact" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=algolia&layout=compact" />
     </td>
   </tr>
 </table>
