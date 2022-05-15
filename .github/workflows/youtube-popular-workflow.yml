@@ -22,10 +22,10 @@ jobs:
             <tr>
               <td>
                 <a href="$url">
-                  <img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
+                  <img width="139px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
                 </a>
               </td>
-              <td width="229px">
+              <td width="228px">
                 <a href="$url">$title</a>
                 <br/>$date
               </td>
