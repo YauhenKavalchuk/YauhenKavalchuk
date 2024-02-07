@@ -18,7 +18,7 @@
 ## I'm a Developer, Teacher and Mentor!
 
 - 📍 I’m From Belarus (Minsk)
-- 💻 7+ Years Experience in Front-end Development
+- 💻 10+ Years Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast & Volunteer
 - 📚 Mentor & Lecturer in Rolling Scopes School
 - 🎙YouTube Lecturer
