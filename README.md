@@ -1,4 +1,4 @@
-<img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/preview.png">
+<img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/preview_new.png">
 
 <div align="center">
   <a href="https://www.youtube.com/c/YauhenKavalchuk?sub_confirmation=1">
